@@ -33,48 +33,32 @@ The **T20 Cricket World Cup 2022 Analytics** presents in-depth player and team p
 
 ## 📂 Project Structure
 
-```plaintext
-/
-├── 📁 data/
-│   └── CricketWorldCupData.xlsx
-├── 📁 pbix/
-│   └── Cricket World Cup Analytics Dashboard.pbix
-├── 📁 images/
-│   └── dashboard_preview.png
-├── README.md
+
 📈 KPIs and Metrics
 Batting Metrics: Runs, Balls Faced, Strike Rate, 4s/6s
-
 Bowling Metrics: Overs, Runs Conceded, Wickets, Economy Rate
-
 Fielding: Catches, Runouts
-
 Match Data: Venue, Opponent, Result
+
 
 📌 How to Use
 Download the .pbix file from the /pbix folder
-
 Open it in Power BI Desktop
-
 Hover over any player name to view their performance tooltip
-
 Use filters and slicers to explore team-wise or match-wise insights
+
 
 🧠 Skills Demonstrated
 🧮 DAX: Created dynamic measures like Strike Rate, Economy Rate, etc.
-
 🧹 Data Cleaning: Used Power Query to structure and normalize Excel data
-
 📊 Visualization: Built interactive charts, custom tooltips, and report pages
-
 🧩 Data Modeling: Established relationships between multiple tables for analysis
-
 🎯 KPI Development: Created performance indicators for better decision-making
 
-🖼️ Preview
 
 📬 Contact
 If you have questions or suggestions, feel free to open an issue or contact me on LinkedIn.
+
 
 📜 License
 This project is open-source and available under the MIT License.
