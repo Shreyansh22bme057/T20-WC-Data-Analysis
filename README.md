@@ -36,8 +36,11 @@ The **T20 Cricket World Cup 2022 Analytics** presents in-depth player and team p
 
 📈 KPIs and Metrics
 Batting Metrics: Runs, Balls Faced, Strike Rate, 4s/6s
+
 Bowling Metrics: Overs, Runs Conceded, Wickets, Economy Rate
+
 Fielding: Catches, Runouts
+
 Match Data: Venue, Opponent, Result
 
 
