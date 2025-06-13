@@ -45,17 +45,25 @@ Match Data: Venue, Opponent, Result
 
 
 📌 How to Use
+
 Download the .pbix file from the /pbix folder
+
 Open it in Power BI Desktop
+
 Hover over any player name to view their performance tooltip
+
 Use filters and slicers to explore team-wise or match-wise insights
 
 
 🧠 Skills Demonstrated
 🧮 DAX: Created dynamic measures like Strike Rate, Economy Rate, etc.
+
 🧹 Data Cleaning: Used Power Query to structure and normalize Excel data
+
 📊 Visualization: Built interactive charts, custom tooltips, and report pages
+
 🧩 Data Modeling: Established relationships between multiple tables for analysis
+
 🎯 KPI Development: Created performance indicators for better decision-making
 
 
