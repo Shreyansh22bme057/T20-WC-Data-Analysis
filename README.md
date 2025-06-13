@@ -1,4 +1,4 @@
-# 🏏 T20 Cricket World Cup 2022 Analytics 
+# 🏏 T20 World Cup 2022 Analytics 
 
 A fully interactive Power BI dashboard that provides performance insights into the Cricket World Cup. This project leverages Excel for data preparation, Power BI for reporting, and DAX for powerful data modeling and analysis.
 
