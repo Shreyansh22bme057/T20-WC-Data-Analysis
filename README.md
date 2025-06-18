@@ -43,6 +43,7 @@ Fielding: Catches, Runouts
 
 Match Data: Venue, Opponent, Result
 
+---
 
 ## 📌 How to Use
 
@@ -54,6 +55,7 @@ Hover over any player name to view their performance tooltip
 
 Use filters and slicers to explore team-wise or match-wise insights
 
+---
 
 ## 🧠 Skills Demonstrated
 🧮 DAX: Created dynamic measures like Strike Rate, Economy Rate, etc.
@@ -66,6 +68,7 @@ Use filters and slicers to explore team-wise or match-wise insights
 
 🎯 KPI Development: Created performance indicators for better decision-making
 
+---
 
 ## 📬 Contact
 If you have questions or suggestions, feel free to open an issue or contact me on LinkedIn.
