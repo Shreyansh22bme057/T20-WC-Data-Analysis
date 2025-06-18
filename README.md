@@ -44,7 +44,7 @@ Fielding: Catches, Runouts
 Match Data: Venue, Opponent, Result
 
 
-📌 How to Use
+## 📌 How to Use
 
 Download the .pbix file from the /pbix folder
 
@@ -55,7 +55,7 @@ Hover over any player name to view their performance tooltip
 Use filters and slicers to explore team-wise or match-wise insights
 
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 🧮 DAX: Created dynamic measures like Strike Rate, Economy Rate, etc.
 
 🧹 Data Cleaning: Used Power Query to structure and normalize Excel data
@@ -67,9 +67,6 @@ Use filters and slicers to explore team-wise or match-wise insights
 🎯 KPI Development: Created performance indicators for better decision-making
 
 
-📬 Contact
+## 📬 Contact
 If you have questions or suggestions, feel free to open an issue or contact me on LinkedIn.
 
-
-📜 License
-This project is open-source and available under the MIT License.
